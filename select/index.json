@@ -1,80 +1,40 @@
 {
   "version": 1,
-  "base_track": "白い雪のプリンセスは",
+  "base_track": "白い雪のプリンセスは（feat. Hatsune Miku）",
   "base_artist": "のぼる↑",
-  "createdAt": "2026-02-19T14:50:51.528417Z",
+  "createdAt": "2026-02-25T13:00:45.837006Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "白い雪のプリンセスは (feat. 初音ミク)",
+      "title": "白い雪のプリンセスは (feat. Hatsune Miku)",
       "artist": "Noboru",
       "has_synced": true,
-      "path": "select/01_白い雪のプリンセスは_(feat._初音ミク)_Noboru.lrc"
+      "path": "select/01_白い雪のプリンセスは_(feat._Hatsune_Miku)_Noboru.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "白い雪のプリンセスは -MIKU EXPO 2014 in INDONESIA Live-",
+      "title": "白い雪のプリンセスは (feat. 初音ミク)",
       "artist": "Noboru",
-      "has_synced": false,
-      "path": "select/02_白い雪のプリンセスは_-MIKU_EXPO_2014_in_INDONESIA_Live-_Noboru.txt"
+      "has_synced": true,
+      "path": "select/02_白い雪のプリンセスは_(feat._初音ミク)_Noboru.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "白い雪のプリンセスは",
-      "artist": "Noboru↑",
-      "has_synced": true,
-      "path": "select/03_白い雪のプリンセスは_Noboru↑.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "白い雪のプリンセスは",
-      "artist": "Noboru↑ feat. Hatsune, Miku",
-      "has_synced": true,
-      "path": "select/04_白い雪のプリンセスは_Noboru↑_feat._Hatsune,_Miku.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "白い雪のプリンセスは",
-      "artist": "のぼる↑",
-      "has_synced": false,
-      "path": "select/05_白い雪のプリンセスは_のぼる↑.txt"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "白い雪のプリンセスは (feat. Hatsune Miku)",
-      "artist": "Noboru",
-      "has_synced": true,
-      "path": "select/06_白い雪のプリンセスは_(feat._Hatsune_Miku)_Noboru.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "白い雪のプリンセスは",
-      "artist": "Noboru",
-      "has_synced": true,
-      "path": "select/07_白い雪のプリンセスは_Noboru.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
       "title": "白い雪のプリンセスは (feat. 初音ミク)",
       "artist": "のぼる↑",
       "has_synced": true,
-      "path": "select/08_白い雪のプリンセスは_(feat._初音ミク)_のぼる↑.lrc"
+      "path": "select/03_白い雪のプリンセスは_(feat._初音ミク)_のぼる↑.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "白い雪のプリンセスは",
-      "artist": "のぼる↑P",
+      "title": "白い雪のプリンセスは (feat. 初音ミク)",
+      "artist": "のぼる↑",
       "has_synced": false,
-      "path": "select/pl_01_白い雪のプリンセスは_のぼる↑P.txt"
+      "path": "select/pl_01_白い雪のプリンセスは_(feat._初音ミク)_のぼる↑.txt"
     }
   ]
 }
